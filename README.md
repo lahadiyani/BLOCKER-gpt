@@ -16,3 +16,4 @@ paste jailbreak in the chatgpt input form then enter a question, if you want to 
 3. off to turn off the mode and return to the default mode
 4. to switch modes, make sure to type the off command first before switching modes
 5. to change the language type switch language then enter then type the required language name
+6. the default language is Indonesian
