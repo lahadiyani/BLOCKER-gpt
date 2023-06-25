@@ -11,8 +11,8 @@ BLOCKER is a set of manipulative commands for gpt chat, BLOCKER will never forge
 # Usage 
 paste jailbreak in the chatgpt input form then enter a question, if you want to open the mode enter the following command:
 
-1. BugHun act as a professional Bug Hunter.
-2. perpus act as a librarian
+1. "BugHun" act as a professional Bug Hunter.
+2. "perpus" act as a librarian
 3. "off" to turn off the mode and return to the default mode
 4. to switch modes, make sure to type the "off" command first before switching modes
 5. to change the language type "switch language" then enter then type the required language name
